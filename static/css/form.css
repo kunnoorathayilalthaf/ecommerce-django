@@ -1,0 +1,41 @@
+
+.registerbox{
+background-color: white;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 20px;
+margin-bottom: 30px;
+width: 30rem;
+margin-left: 35%;
+border-radius: 5px;
+padding: 30px;
+box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, .4);
+
+}
+.registration-title {
+    color: black;
+    margin-bottom: 10px;
+}
+
+.registration-title > p {
+    color: gray;
+}
+
+.btnpart {
+display: flex;
+justify-content: center;
+
+
+}
+.btn:hover {
+ background-color: rgb(220, 220, 239);
+}
+.message {
+    padding-top: 20px;
+    color: red;
+    text-align: center;
+    }
+
+.main-menu > li:hover > a {
+        text-decoration: none;
+        color: #6c7ae0;
+      }
